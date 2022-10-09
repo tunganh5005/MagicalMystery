@@ -1,0 +1,27 @@
+
+.footer {
+    background-color: white;
+    margin-top: auto;
+}
+
+.title {
+    color: #AC623D;
+    margin-bottom: 0;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+    color: #70707B;
+    display: inline-block;
+    padding-top: 2%;
+    
+}
+
+.footer p {
+    color: black;
+}
+
+.link:hover {
+    color: #AC623D;
+}
